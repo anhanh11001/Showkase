@@ -75,14 +75,14 @@ Showkase supports both ksp and kapt. By default, it uses kapt as we only recentl
 #### If you are using kapt
 
 ```kotlin
-implementation "com.airbnb.android:showkase:1.0.0-beta17"
-kapt "com.airbnb.android:showkase-processor:1.0.0-beta17"
+implementation "com.airbnb.android:showkase:1.0.0-beta18"
+kapt "com.airbnb.android:showkase-processor:1.0.0-beta18"
 ```
 
 #### If you are using ksp
 ```kotlin
-implementation "com.airbnb.android:showkase:1.0.0-beta17"
-ksp "com.airbnb.android:showkase-processor:1.0.0-beta17"
+implementation "com.airbnb.android:showkase:1.0.0-beta18"
+ksp "com.airbnb.android:showkase-processor:1.0.0-beta18"
 ```
 
 **Step 2**: Add the relevant annotations for every UI element that should be a part of the 
